@@ -1,0 +1,7 @@
+/home/ec2-user/DemoSite-broadleaf-5.2.14-GA/core/src/main/java/com/community/core/config/ApplicationSolrConfiguration.java
+/home/ec2-user/DemoSite-broadleaf-5.2.14-GA/core/src/main/java/com/community/core/config/CoreEmailConfig.java
+/home/ec2-user/DemoSite-broadleaf-5.2.14-GA/core/src/main/java/com/community/core/service/search/SolrIndexCleanupServiceImpl.java
+/home/ec2-user/DemoSite-broadleaf-5.2.14-GA/core/src/main/java/com/community/core/service/search/SolrIndexCleanupService.java
+/home/ec2-user/DemoSite-broadleaf-5.2.14-GA/core/src/main/java/com/community/core/config/CoreConfig.java
+/home/ec2-user/DemoSite-broadleaf-5.2.14-GA/core/src/main/java/com/community/core/config/CorePersistenceConfig.java
+/home/ec2-user/DemoSite-broadleaf-5.2.14-GA/core/src/main/java/com/community/core/config/StringFactoryBean.java

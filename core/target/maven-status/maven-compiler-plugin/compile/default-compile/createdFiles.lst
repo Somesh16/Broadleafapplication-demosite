@@ -1,0 +1,7 @@
+com/community/core/service/search/SolrIndexCleanupService.class
+com/community/core/config/CorePersistenceConfig.class
+com/community/core/config/ApplicationSolrConfiguration.class
+com/community/core/config/CoreConfig.class
+com/community/core/service/search/SolrIndexCleanupServiceImpl.class
+com/community/core/config/StringFactoryBean.class
+com/community/core/config/CoreEmailConfig.class
